@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EC1Grupo5</string>
+    <string name="title_question_one">Question One</string>
+    <string name="title_question_two">Question Two</string>
+    <string name="title_question_three">Question Three</string>
+    <string name="title_question_four">Question Four</string>
+    <string name="question_one">Un obrero necesita calcular su salario semanal, para ello deberá ingresar
+    las horas trabajadas: Si trabaja 40 horas o menos se le paga un salario de
+    $16 por hora, si trabaja más de 40 horas se le paga un salario de $16 por
+    cada una de las primeras 40 horas y un salario de $20 por cada hora extra.</string>
+    <string name="question_two">El promedio de prácticas de un curso se calcula en base a cuatro prácticas
+    calificadas que serán ingresadas por el alumno de las cuales se elimina la
+    nota menor y se promedian las tres notas más altas. Determine la nota
+    eliminada y el promedio de prácticas de un estudiante.</string>
+    <string name="question_three">. Ingrese el tiempo en segundos, calcular cuantos minutos se tiene.</string>
+    <string name="question_four">. Ingresar un número límite y calcular la suma de todos los números de la
+    serie.</string>
+</resources>
